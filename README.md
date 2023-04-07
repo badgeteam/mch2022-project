@@ -7,9 +7,21 @@
 ## 📑 Developer / Hacker resources
 
 ### [📜 Documentation](https://badge.team/docs/badges/mch2022/)
+&emsp;&emsp; ![GitHub last commit](https://img.shields.io/github/last-commit/badgeteam/website)
+
 ### [🏪 Hatchery (app store)](https://mch2022.badge.team)
+&emsp;&emsp; ![GitHub last commit](https://img.shields.io/github/last-commit/badgeteam/Hatchery)
+
 ### [🔧 Command-line USB tools](https://github.com/badgeteam/mch2022-tools)
+&emsp;&emsp; ![GitHub last commit](https://img.shields.io/github/last-commit/badgeteam/mch2022-tools)
+
+### [🔌 Badge WebUSB Client Library](https://www.npmjs.com/package/@badge.team/badge-webusb)
+&emsp;&emsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/badgeteam/mch2022-webusb-lib)
+![Latest NPM release](https://img.shields.io/npm/v/@badge.team/badge-webusb)
+
 ### [🛠️ Badge IDE - under construction 🚧](https://mch2022-badge-webusb.vercel.app)
+&emsp;&emsp; ![GitHub last commit](https://img.shields.io/github/last-commit/badgeteam/mch2022-webusb-site)
 
 ### ESP32
 #### [📃 Native App template](https://github.com/badgeteam/mch2022-template-app)
@@ -21,8 +33,21 @@
 
 &nbsp;
 ## 💾 Firmware
-### [🚀 ESP32 Launcher firmware](https://github.com/badgeteam/mch2022-firmware-esp32) + [RP2040 firmware](https://github.com/badgeteam/mch2022-firmware-rp2040)
+
+### [🚀 ESP32 Launcher firmware](https://github.com/badgeteam/mch2022-firmware-esp32)
+&emsp;&emsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/badgeteam/mch2022-firmware-esp32)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/badgeteam/mch2022-firmware-esp32?label=version)
+
+### [🔌 RP2040 firmware](https://github.com/badgeteam/mch2022-firmware-rp2040)
+&emsp;&emsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/badgeteam/mch2022-firmware-rp2040)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/badgeteam/mch2022-firmware-rp2040?label=version)
+
 ### [🐍 BadgePython runtime](https://github.com/badgeteam/badgePython)
+&emsp;&emsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/badgeteam/badgePython)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/badgeteam/badgePython?label=version)
 
 &nbsp;
 ## 🏗️ Production
