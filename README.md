@@ -10,12 +10,15 @@
 
 ### [🏪 Hatchery (app store)][hatchery] &emsp; [![last commit](https://img.shields.io/github/last-commit/badgeteam/Hatchery)][GitHub/Hatchery]
 
+### [📡 Firmware downloads](https://ota.badge.team) &emsp; ![latest version](https://img.shields.io/github/v/tag/badgeteam/mch2022-firmware-esp32?label=latest)
+
 ### [🔧 Command-line USB tools &emsp; ![last commit](https://img.shields.io/github/last-commit/badgeteam/mch2022-tools)][GitHub/tools]
 
 ### [🔌 Badge WebUSB Client Library][NPM/webusb-lib] &emsp; [![last commit](https://img.shields.io/github/last-commit/badgeteam/mch2022-webusb-lib)][GitHub/webusb-lib] [![Latest NPM release](https://img.shields.io/npm/v/@badge.team/badge-webusb)][NPM/webusb-lib]
 
 ### [🛠️ Badge IDE - under construction 🚧][badge-ide] &emsp; [![last commit](https://img.shields.io/github/last-commit/badgeteam/mch2022-webusb-site)][GitHub/badge-ide]
 
+[ota]:                https://ota.badge.team
 [hatchery]:           https://mch2022.badge.team
 [badge-ide]:          https://mch2022-badge-webusb.vercel.app
 [website/docs]:       https://badge.team/docs/badges/mch2022/
